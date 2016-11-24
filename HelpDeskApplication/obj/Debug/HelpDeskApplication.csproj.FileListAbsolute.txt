@@ -1,0 +1,165 @@
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll.config
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.pdb
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Owin.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\WebGrease.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.pdb
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.csprojResolveAssemblyReference.cache
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.dll
+c:\users\hammad\documents\visual studio 2013\Projects\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.pdb
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll.config
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.pdb
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Owin.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\WebGrease.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.pdb
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.csprojResolveAssemblyReference.cache
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.dll
+D:\task\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.pdb
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll.config
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\HelpDeskApplication.pdb
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Web.Infrastructure.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Owin.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\WebGrease.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Helpers.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Mvc.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Optimization.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.Razor.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Deployment.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\System.Web.WebPages.Razor.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Newtonsoft.Json.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Antlr3.Runtime.pdb
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\EntityFramework.SqlServer.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Google.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.csprojResolveAssemblyReference.cache
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.dll
+E:\ID 1585\HelpDeskApplication\HelpDeskApplication\obj\Debug\HelpDeskApplication.pdb
